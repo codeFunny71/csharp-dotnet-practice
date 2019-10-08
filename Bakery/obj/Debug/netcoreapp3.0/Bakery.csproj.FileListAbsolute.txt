@@ -58,3 +58,4 @@
 /Users/marcusabsher/Projects/csharp-dotnet-practice/Bakery/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/marcusabsher/Projects/csharp-dotnet-practice/Bakery/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/marcusabsher/Projects/csharp-dotnet-practice/Bakery/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/marcusabsher/Projects/csharp-dotnet-practice/Bakery/obj/Debug/netcoreapp3.0/Razor/Pages/Order.cshtml.g.cs
