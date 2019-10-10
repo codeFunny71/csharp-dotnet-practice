@@ -14354,6 +14354,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Pages/OrderSuccess.cshtml",
+      "TargetPath": "Pages/OrderSuccess.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
